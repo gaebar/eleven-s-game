@@ -17,7 +17,7 @@
   },
   "homepage": "https://gaebar.github.io/eleven-s-game/",
   "dependencies": {
-    "eslint": "^5.16.0"
+    "eslint": "^8.43.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
